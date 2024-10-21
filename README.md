@@ -1,6 +1,16 @@
-# FIAP-API-DISPOSITIVO-SEGURANCA
-Api para dispositivo de segurança
+# API SEGURANÇA
 
-IMPORTANTE
+Aplicação API 
 
-Alterar o RM e PASSWORD no arquivo "application.properties" para usar o banco de dados ORACLE da FIAP ou outros.
+## Pré-requisitos
+
+- Java 21
+- Git
+- Docker
+
+## Build e execução
+
+```sh
+docker compose up --build
+```
+
