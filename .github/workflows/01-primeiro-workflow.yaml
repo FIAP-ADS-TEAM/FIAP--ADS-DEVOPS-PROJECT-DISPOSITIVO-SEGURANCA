@@ -1,3 +1,4 @@
+name: 01 PRIMEIRO WORKFLOW
 on: push
 jobs:
   job1-hello:
